@@ -1,21 +1,21 @@
 # Site settings
-title: ZeroPrime9
+title: Welcome
 email: zero.prime9@protonmail.com
-description: Hi, I'm Farzan Mohammed
+description: Hi, I am Farzan Mohammed aka Zero_Prime9. I am a Cybersecurity Engineer and to see more of my content click below :)
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://zeroprime9.github.io/" # the base hostname & protocol for your site
 
 # Social settings
 500px_url:
 facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url:
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+github_url: https://github.com/ZeroPrime9
+gitlab_url: 
+googleplus_url: 
+instagram_url: https://www.instagram.com/zero_prime9/?hl=en
+linkedin_url: https://www.linkedin.com/in/farzan-nobi/
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: https://twitter.com/zero_prime9?lang=en
 
 # Build settings
 markdown: kramdown

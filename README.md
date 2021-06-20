@@ -1,31 +1,7 @@
-# Eventually - Jekyll Theme
+# Writeup/Portfolio 
 
-A Jekyll version of the "Eventually" theme by [HTML5 UP](https://html5up.net/).
+This page is created by Zero_Prime9 usign Jekyll theme to showcase the portfolio and writeups.
 
-![Eventually Theme](assets/images/eventually.jpg "Eventually Theme")
-
-# How to Use
-
-For those unfamiliar with how Jekyll works, check out [https://jekyllrb.com/](https://jekyllrb.com/) for all the details,
-or read up on just the basics of [front matter](https://jekyllrb.com/docs/frontmatter/), [writing posts](https://jekyllrb.com/docs/posts/),
-and [creating pages](https://jekyllrb.com/docs/pages/).
-
-- **GitLab**: Simply fork this repository and start editing the `_config.yml` file!  
-- **GitHub**: Fork this reposity and create a branch named `gh-pages`, then start editing the `_config.yml` file!
-
-# Added Features
-
-* Add your **social profiles** easily in `_config.yml`. Only social profiles buttons you enter in `config.yml` show up on the site footer!
-* **Automatic sitemap generation** via the [Jekyll Sitemap Generator](https://github.com/jekyll/jekyll-sitemap) plugin.
-* **Automatic SEO** via the [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag) plugin.
-
-# Issues
-
-If you would like to report a bug, ask a question, request a feature, feel free to do so on [the GitLab repository](https://gitlab.com/andrewbanchich/eventually-jekyll-theme) and I will be more than happy to help!
-
-Alternatively, you can open an issue via email by emailing [incoming+andrewbanchich/eventually-jekyll-theme@incoming.gitlab.com](mailto:incoming+andrewbanchich/eventually-jekyll-theme@incoming.gitlab.com).
-
-The GitHub repository is simply a mirror of the GitLab repository.
 
 # Credits
 
